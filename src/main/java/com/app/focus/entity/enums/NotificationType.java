@@ -1,0 +1,7 @@
+package com.app.focus.entity.enums;
+
+public enum NotificationType {
+    TASK_DUE_SOON, HABIT_MISSED, GOAL_NEAR_DEADLINE,
+    FOCUS_REMINDER, UPCOMING_EVENT, PHYSICAL_ACTIVITY_MISSED,
+    TASK_DUE,EVENT_UPCOMING
+}
